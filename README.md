@@ -15,3 +15,14 @@ When the admin account wants to make a post, it will instantiate a Posts model w
 
 Categories and subcategories work as such. Drop down menu showcases catagories, each with their own url. Once directed to a url, the items will be in a column of their assigned subcategory. For example, women's shoes are in a category of women's clothing, and the shoes will be listed as 'shoes' in the subcategory. 
 
+## Data Model
+Posts
+* image, models.ImageField()
+* title, forms.CharField()
+* description, forms.CharField()
+* category, forms.CharField()
+* subcategory, forms.CharField()
+* created_date, forms.DateField()
+
+## Schedule
+
