@@ -26,13 +26,13 @@ Posts
 
 ## Schedule
 - Week 1
-* Rough landing page, superuser login page and another page for a basic form to send data into post models.
+  - Rough landing page, superuser login page and another page for a basic form to send data into post models.
 
 - Week 2
-* Category pages working with subcategories appearing in them. Allow the superuser to edit and delete posts. Possibly fit the search bar functionality into this week.
+  - Category pages working with subcategories appearing in them. Allow the superuser to edit and delete posts. Possibly fit the search bar functionality into this week.
 
 - Week 3
-* Front-end work, style it up and fix layouts.
+  - Front-end work, style it up and fix layouts.
 
 - Week 4
-* Stress test the application, fill it with lots of data. If it looks too clunky and unorganized with lots of posts, implement page functions for subcategories.
+  - Stress test the application, fill it with lots of data. If it looks too clunky and unorganized with lots of posts, implement page functions for subcategories.
