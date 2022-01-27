@@ -17,7 +17,7 @@ Searching
 
 ## Data Model
 Product
-* foreignKey (User)
+* author, foreignKey(user)
 * category, ManyToManyField('name')
 * image, models.ImageField()
 * title, forms.CharField()
