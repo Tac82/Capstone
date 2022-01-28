@@ -13,7 +13,6 @@
 Searching for products/items will be available to unathenticated users, as they can't make an account anyways. However the admin account will need it.
 When the admin account wants to post a product, it will instantiate a Products and Categories model with form data.
 
-Searching 
 
 ## Data Model
 Product
