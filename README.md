@@ -20,6 +20,7 @@ Product
 * category, ManyToManyField('name')
 * image, models.ImageField()
 * title, forms.CharField()
+* price, models.PositiveIntegerField()
 * description, forms.CharField()
 * created_date, forms.DateField()
 
